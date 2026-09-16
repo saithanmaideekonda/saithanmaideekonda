@@ -1,164 +1,150 @@
-
 # 👋 Hi, I'm Sai Thanmai Deekonda
 
-### 💻 Computer Science Engineering Student | 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast
+### 💻 Computer Science Engineering Student | 🚀 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Java+%7C+Python+%7C+MERN+Stack;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=saithanmaideekonda&label=Profile%20Views&color=0e75b6&style=flat)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;AI%2FML+Enthusiast;Java+%7C+Python+%7C+C;React.js+%7C+Node.js+%7C+Express.js;Machine+Learning+%7C+Deep+Learning;Always+Learning+%26+Building)
 
 ---
 
-## 🎓 About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering student at **Kakatiya Institute of Technology and Science, Warangal**
-- 💻 Strong foundations in **Java, Python, C, DSA, OOP, SQL, and DBMS**
-- 🌐 Full-Stack Developer working with **React.js, Node.js, Express.js, and MongoDB**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Software Development**
-- 🔭 Currently working on **AI/ML and Full-Stack projects**
-- 🌱 Currently learning **Machine Learning, REST APIs, and Cloud Computing**
-- 🤝 Looking to collaborate on **AI/ML and Full-Stack projects**
-- 📫 Email: **saithanmaideekonda718@gmail.com**
+- 🚀 Aspiring **Full-Stack Developer** and **AI/ML Enthusiast**
+- 🤖 Interested in **AI, Machine Learning & Deep Learning**
+- 💻 Strong foundation in **Java, Python, C, DSA, OOP and DBMS**
+- 🧩 Passionate about **problem-solving and software development**
+- 📚 Always learning new technologies and improving my development skills
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+
+---
+
+## 🛠️ Skills
 
 ### 💻 Programming Languages
+Java, Python, C
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Java Python C" />
-</p>
+### 🧩 Core Concepts
+Data Structures & Algorithms, OOP, DBMS, Computer Networks
 
-### 🌐 Full-Stack Development
+### 📐 Statistical Analysis
+Descriptive Statistics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql" alt="HTML CSS JavaScript React Node.js Express MongoDB MySQL" />
-</p>
+### 🤖 Machine Learning
+Supervised Learning, Unsupervised Learning
 
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
-</p>
-
-### 🧠 AI/ML
-
-- Python
-- Data Preprocessing
-- KNN Classification
-- Machine Learning
-- Dataset Analysis
+### 🧠 Deep Learning
+AI, Generative AI, IoT
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
 
-### 📊 Smart Placement Tracker
+### 🌐 Web Development
+HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
-**Tech Stack:** MERN + Gemini API
+### 🗄️ Databases
+SQL, MongoDB
 
-- 📌 Full-stack placement platform with a Kanban board for job applications.
-- 🔧 REST APIs for placement data, interview experiences, and preparation roadmaps.
-- 🗄️ MongoDB collections for managing placement information.
-- 🤖 Gemini API integration for personalized preparation guidance.
+### 📊 Data & Visualization
+Pandas, Matplotlib, Seaborn, Power BI
 
-### ⭐ Anonymous Course Feedback and Rating System
-
-**Tech Stack:** MERN Stack
-
-- 📝 Platform for anonymous course feedback and ratings.
-- 🎨 Responsive frontend built with React.js.
-- 🔧 Backend REST APIs using Node.js and Express.js.
-- 🗄️ MongoDB CRUD operations for feedback data.
-- 📈 Course-wise insights from aggregated feedback.
+### 🔧 Development Tools
+Git, GitHub, VS Code
 
 ---
 
-## 💼 Internship Experience
+## 🚀 Projects
 
-### 🤖 AI Intern — DecodeLabs
+### 📌 Smart Placement Tracker
 
-**May 2026 – June 2026**
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API
 
-- 🐍 Developed Python-based AI/ML projects.
-- 🤖 Built a rule-based chatbot.
-- 🌸 Developed an Iris dataset classification model.
-- 💡 Created a technology-stack recommender.
-- 🧠 Applied data preprocessing and KNN classification.
-- 📊 Analyzed model performance using structured datasets.
-- 📝 Documented projects using README files.
-- 🔗 Maintained source code on GitHub.
+- Full-stack placement tracking platform with a **Kanban board**
+- MongoDB collections for managing placement-related data
+- REST APIs for placement data, interview experiences and preparation roadmaps
+- Integrated **Gemini API** for personalized preparation guidance
 
 ---
 
-## 📚 Currently Learning
+### 📌 Anonymous Course Feedback and Rating System
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Machine+Learning;React.js+%26+Node.js;REST+API+Development;Cloud+Computing;Data+Structures+%26+Algorithms" alt="Currently Learning" />
-</p>
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
----
-
-## 🧩 Problem Solving
-
-- 🔹 Data Structures & Algorithms
-- 🔹 Object-Oriented Programming
-- 🔹 SQL and DBMS
-- 🔹 Computer Networks
-- 🔹 Backend Development
-- 🔹 API Integration
+- Anonymous platform for submitting course feedback and ratings
+- Responsive frontend built using **React.js**
+- REST APIs developed using **Node.js and Express.js**
+- MongoDB used for CRUD operations
+- Provides course-wise feedback and rating insights
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 AI / ML Internship Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
+### AI Intern — DecodeLabs
 
----
+**May 2026 – June 2026 | Remote**
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
+- Developed Python-based AI/ML projects
+- Built a **rule-based chatbot**
+- Worked on **Iris dataset classification**
+- Developed a **technology-stack recommender**
+- Performed data preprocessing and implemented **KNN**
+- Worked with structured datasets and evaluated model performance
+- Maintained project documentation and GitHub README files
 
 ---
 
 ## 🏆 Certifications
 
-- 🏆 **Data Analytics Job Simulation – Deloitte** — 2026
-- ☁️ **Cloud Computing with AWS – Internshala** — 2025
-- 🗄️ **NPTEL – Database Management Systems** — 2025
+- 📊 **Deloitte Data Analytics Job Simulation** — April 2026
+- ☁️ **Cloud Computing with AWS** — Internshala, June 2025
+- 🗄️ **Database Management Systems** — NPTEL, March 2025
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Education
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saithanmaideekonda718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+🎓 **B.Tech — Computer Science Engineering**  
+Kakatiya Institute of Technology and Science, Warangal  
+**August 2023 – June 2027**  
+**CGPA: 9.1 / 10**
 
 ---
 
-## 💡 Quote
+## 🎯 Areas of Interest
 
-<p align="center">
-  <i>Learn 📚 → Build 🚀 → Break 🐛 → Fix 🔧 → Repeat 🔥</i>
-</p>
+- Full-Stack Web Development
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Problem Solving
+- Software Development
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Animation" />
-</p>
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Thanmai%20Deekonda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-thanmai-deekonda-b1141a329/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-saithanmaideekonda-black?style=for-the-badge&logo=github)](https://github.com/saithanmaideekonda)
+
+[![Email](https://img.shields.io/badge/Email-saithanmaideekonda718%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:saithanmaideekonda718@gmail.com)
+
+---
+
+## ✨ Developer Journey
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=600&lines=Learn+%7C+Build+%7C+Improve;Code+Today%2C+Create+Tomorrow+%F0%9F%9A%80;Keep+Learning+%7C+Keep+Growing)
+
+---
+
+⭐ From [Sai Thanmai Deekonda](https://github.com/saithanmaideekonda)
